@@ -1,13 +1,13 @@
 @charset"UTF-8"
 body
 {
-background-color: ~;
-  color: ~;
+background-color: blue;
+  color: green;
   font-size: 12pt;
   font family: Arial;
 }
 h;
 {
-  color: ~;
+  color: blue;
   font-family:-;
 }
